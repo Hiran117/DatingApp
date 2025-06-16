@@ -1,0 +1,5050 @@
+{
+  "Version": 1,
+  "Hash": "3eGC56ZB+9Hv9mwbNoCWueuPScFSedz5huGcC3aQHQo=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\1dpm1p8bmc-fcmdhkcd1x.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "index#[.{fingerprint=fcmdhkcd1x}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "np1aoc7dwq",
+      "Integrity": "1WCX97lF46S395g6HbYFo9B3EVkuwKjYfnTMPYhPcyA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "favicon#[.{fingerprint=vagikyz9qx}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "spc2whqxhc",
+      "Integrity": "4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\b5v5t9sn9d-9rwtbz5fjq.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "main-4LJYSMJ4#[.{fingerprint=9rwtbz5fjq}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\main-4LJYSMJ4.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wv97v9t1x5",
+      "Integrity": "NH9IAMDkY5nM07rP4aucRnzYLjnbKFoKguOu05ioDEk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\main-4LJYSMJ4.js"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\ipsy3anybd-dosqy3kf6t.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "media/fontawesome-webfont-3KIJVIEY#[.{fingerprint=dosqy3kf6t}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-3KIJVIEY.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ji388vklnc",
+      "Integrity": "Ndiz6aqS5Z7X6nKG8ELj6j7ZnErv08fM2w3FlT2wNmc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-3KIJVIEY.svg"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\1dpm1p8bmc-fcmdhkcd1x.br",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/API",
+      "RelativePath": "index#[.{fingerprint=fcmdhkcd1x}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "b1ye01456y",
+      "Integrity": "MTh5MAzCmXnlTGoYg+MUyMKLqutXhE3yAsuYZvy8vNE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\6x0scahnf1-vagikyz9qx.br",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/API",
+      "RelativePath": "favicon#[.{fingerprint=vagikyz9qx}]?.ico.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "z44oi65n2z",
+      "Integrity": "DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\b5v5t9sn9d-9rwtbz5fjq.br",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/API",
+      "RelativePath": "main-4LJYSMJ4#[.{fingerprint=9rwtbz5fjq}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\main-4LJYSMJ4.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "n20v6jpzsq",
+      "Integrity": "4as2lG37U6Cd+YtVl/IPAnubJO2CZX2SwzRYTbCIhqM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\main-4LJYSMJ4.js"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\ipsy3anybd-dosqy3kf6t.br",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/API",
+      "RelativePath": "media/fontawesome-webfont-3KIJVIEY#[.{fingerprint=dosqy3kf6t}]?.svg.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-3KIJVIEY.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "io5km8hufw",
+      "Integrity": "wt8xbZS4ZNcm+/mVqwS1CW4zZp+NSOvDRdtQAj9OW3U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-3KIJVIEY.svg"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\wsenxafarw-39tegmrjtp.br",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/API",
+      "RelativePath": "polyfills-FFHMD2TL#[.{fingerprint=39tegmrjtp}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\polyfills-FFHMD2TL.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "txwjkp4l8q",
+      "Integrity": "f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\xhuram36uf-0qycsy72ku.br",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/API",
+      "RelativePath": "styles-TFRPMIXF#[.{fingerprint=0qycsy72ku}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\styles-TFRPMIXF.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "a6n6b5btjj",
+      "Integrity": "LjaqeUvf8NGwTcfApQaOWGZDvcEnrN2/OwD1Pp8ADP8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\styles-TFRPMIXF.css"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\xtgzzp8wob-tvy3j3n584.br",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/API",
+      "RelativePath": "prerendered-routes#[.{fingerprint=tvy3j3n584}]?.json.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\prerendered-routes.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "s1s0vs4vxa",
+      "Integrity": "AAOcDdoxFiyeGdEWYmSBa0pItxin+SuPp3FEivY+fgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\prerendered-routes.json"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\zzyd6wgwl5-6bmgcdgwjr.br",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/API",
+      "RelativePath": "3rdpartylicenses#[.{fingerprint=6bmgcdgwjr}]?.txt.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\3rdpartylicenses.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "vdjhskkf4e",
+      "Integrity": "nRcCdz8nVk6oi602WpcBKYVmLTf4O72X/1ApQl9OSgY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\3rdpartylicenses.txt"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\wsenxafarw-39tegmrjtp.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "polyfills-FFHMD2TL#[.{fingerprint=39tegmrjtp}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\polyfills-FFHMD2TL.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w4lx0xupn9",
+      "Integrity": "wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\xhuram36uf-0qycsy72ku.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "styles-TFRPMIXF#[.{fingerprint=0qycsy72ku}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\styles-TFRPMIXF.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gn9b0w6ki3",
+      "Integrity": "nOVRmKjMPW8ebWoBQwEJaOGInRJAEA5lQK7HxZrVOFA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\styles-TFRPMIXF.css"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\xtgzzp8wob-tvy3j3n584.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "prerendered-routes#[.{fingerprint=tvy3j3n584}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\prerendered-routes.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "flm15mbdxq",
+      "Integrity": "o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\prerendered-routes.json"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\zzyd6wgwl5-6bmgcdgwjr.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "3rdpartylicenses#[.{fingerprint=6bmgcdgwjr}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\3rdpartylicenses.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q6vmbxt3r8",
+      "Integrity": "nhnMOGwsg1OHmD6nZPTi3R2bSGrkQmPc6MW/H0JgdEY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\3rdpartylicenses.txt"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\3rdpartylicenses.txt",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "3rdpartylicenses#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6bmgcdgwjr",
+      "Integrity": "8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\favicon.ico",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vagikyz9qx",
+      "Integrity": "+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\index.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fcmdhkcd1x",
+      "Integrity": "ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\main-4LJYSMJ4.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "main-4LJYSMJ4#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9rwtbz5fjq",
+      "Integrity": "FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main-4LJYSMJ4.js"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-3KIJVIEY.svg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "media/fontawesome-webfont-3KIJVIEY#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dosqy3kf6t",
+      "Integrity": "rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\fontawesome-webfont-3KIJVIEY.svg"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-5GKVPAEF.woff2",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "media/fontawesome-webfont-5GKVPAEF#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2hr3gl3r5x",
+      "Integrity": "Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\fontawesome-webfont-5GKVPAEF.woff2"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-FMJ3VJ65.eot",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "media/fontawesome-webfont-FMJ3VJ65#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pz0qgnv39v",
+      "Integrity": "e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\fontawesome-webfont-FMJ3VJ65.eot"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-RJ6LE7IU.ttf",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "media/fontawesome-webfont-RJ6LE7IU#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yex6mt8az7",
+      "Integrity": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\fontawesome-webfont-RJ6LE7IU.ttf"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-Z4ARLA73.woff",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "media/fontawesome-webfont-Z4ARLA73#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eyrbpue749",
+      "Integrity": "ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\fontawesome-webfont-Z4ARLA73.woff"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\polyfills-FFHMD2TL.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "polyfills-FFHMD2TL#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "39tegmrjtp",
+      "Integrity": "adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\prerendered-routes.json",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "prerendered-routes#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tvy3j3n584",
+      "Integrity": "p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\prerendered-routes.json"
+    },
+    {
+      "Identity": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\styles-TFRPMIXF.css",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "styles-TFRPMIXF#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qycsy72ku",
+      "Integrity": "OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles-TFRPMIXF.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "3rdpartylicenses.6bmgcdgwjr.txt",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\zzyd6wgwl5-6bmgcdgwjr.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000247770069"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4035"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRcCdz8nVk6oi602WpcBKYVmLTf4O72X/1ApQl9OSgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6bmgcdgwjr"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.6bmgcdgwjr.txt",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\zzyd6wgwl5-6bmgcdgwjr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000190766883"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5241"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nhnMOGwsg1OHmD6nZPTi3R2bSGrkQmPc6MW/H0JgdEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6bmgcdgwjr"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.6bmgcdgwjr.txt",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\3rdpartylicenses.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6bmgcdgwjr"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.6bmgcdgwjr.txt.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\zzyd6wgwl5-6bmgcdgwjr.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRcCdz8nVk6oi602WpcBKYVmLTf4O72X/1ApQl9OSgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6bmgcdgwjr"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nRcCdz8nVk6oi602WpcBKYVmLTf4O72X/1ApQl9OSgY="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.6bmgcdgwjr.txt.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\zzyd6wgwl5-6bmgcdgwjr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nhnMOGwsg1OHmD6nZPTi3R2bSGrkQmPc6MW/H0JgdEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6bmgcdgwjr"
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nhnMOGwsg1OHmD6nZPTi3R2bSGrkQmPc6MW/H0JgdEY="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\zzyd6wgwl5-6bmgcdgwjr.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000247770069"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4035"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRcCdz8nVk6oi602WpcBKYVmLTf4O72X/1ApQl9OSgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\zzyd6wgwl5-6bmgcdgwjr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000190766883"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5241"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nhnMOGwsg1OHmD6nZPTi3R2bSGrkQmPc6MW/H0JgdEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\3rdpartylicenses.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8rRBl9Wz0ndLVuT3XRL8asLxupOngBwE4xHsRaJpj3U="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\zzyd6wgwl5-6bmgcdgwjr.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRcCdz8nVk6oi602WpcBKYVmLTf4O72X/1ApQl9OSgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nRcCdz8nVk6oi602WpcBKYVmLTf4O72X/1ApQl9OSgY="
+        }
+      ]
+    },
+    {
+      "Route": "3rdpartylicenses.txt.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\zzyd6wgwl5-6bmgcdgwjr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nhnMOGwsg1OHmD6nZPTi3R2bSGrkQmPc6MW/H0JgdEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nhnMOGwsg1OHmD6nZPTi3R2bSGrkQmPc6MW/H0JgdEY="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000237360551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:38:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\6x0scahnf1-vagikyz9qx.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000270489586"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3696"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:38:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:38:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\6x0scahnf1-vagikyz9qx.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:38:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:38:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000237360551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:38:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\6x0scahnf1-vagikyz9qx.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000270489586"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3696"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:38:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:38:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\6x0scahnf1-vagikyz9qx.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:38:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DZvQlN6nTeKU0K8Ab7twyTbcOiDwAKYlMmsyGJ+ukfM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\6x0scahnf1-vagikyz9qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 10:38:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8="
+        }
+      ]
+    },
+    {
+      "Route": "index.fcmdhkcd1x.html",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\1dpm1p8bmc-fcmdhkcd1x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003322259136"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1WCX97lF46S395g6HbYFo9B3EVkuwKjYfnTMPYhPcyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fcmdhkcd1x"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA="
+        }
+      ]
+    },
+    {
+      "Route": "index.fcmdhkcd1x.html",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\1dpm1p8bmc-fcmdhkcd1x.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.005882352941"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTh5MAzCmXnlTGoYg+MUyMKLqutXhE3yAsuYZvy8vNE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fcmdhkcd1x"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA="
+        }
+      ]
+    },
+    {
+      "Route": "index.fcmdhkcd1x.html",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fcmdhkcd1x"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA="
+        }
+      ]
+    },
+    {
+      "Route": "index.fcmdhkcd1x.html.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\1dpm1p8bmc-fcmdhkcd1x.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTh5MAzCmXnlTGoYg+MUyMKLqutXhE3yAsuYZvy8vNE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fcmdhkcd1x"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTh5MAzCmXnlTGoYg+MUyMKLqutXhE3yAsuYZvy8vNE="
+        }
+      ]
+    },
+    {
+      "Route": "index.fcmdhkcd1x.html.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\1dpm1p8bmc-fcmdhkcd1x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1WCX97lF46S395g6HbYFo9B3EVkuwKjYfnTMPYhPcyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fcmdhkcd1x"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1WCX97lF46S395g6HbYFo9B3EVkuwKjYfnTMPYhPcyA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\1dpm1p8bmc-fcmdhkcd1x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003322259136"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1WCX97lF46S395g6HbYFo9B3EVkuwKjYfnTMPYhPcyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\1dpm1p8bmc-fcmdhkcd1x.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.005882352941"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTh5MAzCmXnlTGoYg+MUyMKLqutXhE3yAsuYZvy8vNE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ocyaykFGOn6n23jcJG5mH9J8gSZqwCrGo9UStTb0twA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\1dpm1p8bmc-fcmdhkcd1x.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTh5MAzCmXnlTGoYg+MUyMKLqutXhE3yAsuYZvy8vNE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTh5MAzCmXnlTGoYg+MUyMKLqutXhE3yAsuYZvy8vNE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\1dpm1p8bmc-fcmdhkcd1x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1WCX97lF46S395g6HbYFo9B3EVkuwKjYfnTMPYhPcyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1WCX97lF46S395g6HbYFo9B3EVkuwKjYfnTMPYhPcyA="
+        }
+      ]
+    },
+    {
+      "Route": "main-4LJYSMJ4.9rwtbz5fjq.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\b5v5t9sn9d-9rwtbz5fjq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003879548"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257761"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NH9IAMDkY5nM07rP4aucRnzYLjnbKFoKguOu05ioDEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9rwtbz5fjq"
+        },
+        {
+          "Name": "label",
+          "Value": "main-4LJYSMJ4.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0="
+        }
+      ]
+    },
+    {
+      "Route": "main-4LJYSMJ4.9rwtbz5fjq.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\b5v5t9sn9d-9rwtbz5fjq.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000004661266"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214533"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4as2lG37U6Cd+YtVl/IPAnubJO2CZX2SwzRYTbCIhqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9rwtbz5fjq"
+        },
+        {
+          "Name": "label",
+          "Value": "main-4LJYSMJ4.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0="
+        }
+      ]
+    },
+    {
+      "Route": "main-4LJYSMJ4.9rwtbz5fjq.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\main-4LJYSMJ4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "977865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9rwtbz5fjq"
+        },
+        {
+          "Name": "label",
+          "Value": "main-4LJYSMJ4.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0="
+        }
+      ]
+    },
+    {
+      "Route": "main-4LJYSMJ4.9rwtbz5fjq.js.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\b5v5t9sn9d-9rwtbz5fjq.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4as2lG37U6Cd+YtVl/IPAnubJO2CZX2SwzRYTbCIhqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9rwtbz5fjq"
+        },
+        {
+          "Name": "label",
+          "Value": "main-4LJYSMJ4.js.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4as2lG37U6Cd+YtVl/IPAnubJO2CZX2SwzRYTbCIhqM="
+        }
+      ]
+    },
+    {
+      "Route": "main-4LJYSMJ4.9rwtbz5fjq.js.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\b5v5t9sn9d-9rwtbz5fjq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NH9IAMDkY5nM07rP4aucRnzYLjnbKFoKguOu05ioDEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9rwtbz5fjq"
+        },
+        {
+          "Name": "label",
+          "Value": "main-4LJYSMJ4.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NH9IAMDkY5nM07rP4aucRnzYLjnbKFoKguOu05ioDEk="
+        }
+      ]
+    },
+    {
+      "Route": "main-4LJYSMJ4.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\b5v5t9sn9d-9rwtbz5fjq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003879548"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257761"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NH9IAMDkY5nM07rP4aucRnzYLjnbKFoKguOu05ioDEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0="
+        }
+      ]
+    },
+    {
+      "Route": "main-4LJYSMJ4.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\b5v5t9sn9d-9rwtbz5fjq.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000004661266"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214533"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4as2lG37U6Cd+YtVl/IPAnubJO2CZX2SwzRYTbCIhqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0="
+        }
+      ]
+    },
+    {
+      "Route": "main-4LJYSMJ4.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\main-4LJYSMJ4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "977865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FbLfsxbJe0sN5taia0pnLi0ChX2SdVXJHkTfxPT5Hs0="
+        }
+      ]
+    },
+    {
+      "Route": "main-4LJYSMJ4.js.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\b5v5t9sn9d-9rwtbz5fjq.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4as2lG37U6Cd+YtVl/IPAnubJO2CZX2SwzRYTbCIhqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4as2lG37U6Cd+YtVl/IPAnubJO2CZX2SwzRYTbCIhqM="
+        }
+      ]
+    },
+    {
+      "Route": "main-4LJYSMJ4.js.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\b5v5t9sn9d-9rwtbz5fjq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NH9IAMDkY5nM07rP4aucRnzYLjnbKFoKguOu05ioDEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NH9IAMDkY5nM07rP4aucRnzYLjnbKFoKguOu05ioDEk="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-3KIJVIEY.dosqy3kf6t.svg",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\ipsy3anybd-dosqy3kf6t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000007344301"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136159"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ndiz6aqS5Z7X6nKG8ELj6j7ZnErv08fM2w3FlT2wNmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dosqy3kf6t"
+        },
+        {
+          "Name": "label",
+          "Value": "media/fontawesome-webfont-3KIJVIEY.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-3KIJVIEY.dosqy3kf6t.svg",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\ipsy3anybd-dosqy3kf6t.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000009011607"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110967"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wt8xbZS4ZNcm+/mVqwS1CW4zZp+NSOvDRdtQAj9OW3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dosqy3kf6t"
+        },
+        {
+          "Name": "label",
+          "Value": "media/fontawesome-webfont-3KIJVIEY.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-3KIJVIEY.dosqy3kf6t.svg",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-3KIJVIEY.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "444379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dosqy3kf6t"
+        },
+        {
+          "Name": "label",
+          "Value": "media/fontawesome-webfont-3KIJVIEY.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-3KIJVIEY.dosqy3kf6t.svg.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\ipsy3anybd-dosqy3kf6t.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wt8xbZS4ZNcm+/mVqwS1CW4zZp+NSOvDRdtQAj9OW3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dosqy3kf6t"
+        },
+        {
+          "Name": "label",
+          "Value": "media/fontawesome-webfont-3KIJVIEY.svg.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wt8xbZS4ZNcm+/mVqwS1CW4zZp+NSOvDRdtQAj9OW3U="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-3KIJVIEY.dosqy3kf6t.svg.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\ipsy3anybd-dosqy3kf6t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ndiz6aqS5Z7X6nKG8ELj6j7ZnErv08fM2w3FlT2wNmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dosqy3kf6t"
+        },
+        {
+          "Name": "label",
+          "Value": "media/fontawesome-webfont-3KIJVIEY.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ndiz6aqS5Z7X6nKG8ELj6j7ZnErv08fM2w3FlT2wNmc="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-3KIJVIEY.svg",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\ipsy3anybd-dosqy3kf6t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000007344301"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136159"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ndiz6aqS5Z7X6nKG8ELj6j7ZnErv08fM2w3FlT2wNmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-3KIJVIEY.svg",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\ipsy3anybd-dosqy3kf6t.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000009011607"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110967"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wt8xbZS4ZNcm+/mVqwS1CW4zZp+NSOvDRdtQAj9OW3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-3KIJVIEY.svg",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-3KIJVIEY.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "444379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-3KIJVIEY.svg.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\ipsy3anybd-dosqy3kf6t.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wt8xbZS4ZNcm+/mVqwS1CW4zZp+NSOvDRdtQAj9OW3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wt8xbZS4ZNcm+/mVqwS1CW4zZp+NSOvDRdtQAj9OW3U="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-3KIJVIEY.svg.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\ipsy3anybd-dosqy3kf6t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ndiz6aqS5Z7X6nKG8ELj6j7ZnErv08fM2w3FlT2wNmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ndiz6aqS5Z7X6nKG8ELj6j7ZnErv08fM2w3FlT2wNmc="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-5GKVPAEF.2hr3gl3r5x.woff2",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-5GKVPAEF.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hr3gl3r5x"
+        },
+        {
+          "Name": "label",
+          "Value": "media/fontawesome-webfont-5GKVPAEF.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-5GKVPAEF.woff2",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-5GKVPAEF.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-FMJ3VJ65.eot",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-FMJ3VJ65.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-FMJ3VJ65.pz0qgnv39v.eot",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-FMJ3VJ65.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pz0qgnv39v"
+        },
+        {
+          "Name": "label",
+          "Value": "media/fontawesome-webfont-FMJ3VJ65.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-RJ6LE7IU.ttf",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-RJ6LE7IU.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-RJ6LE7IU.yex6mt8az7.ttf",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-RJ6LE7IU.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yex6mt8az7"
+        },
+        {
+          "Name": "label",
+          "Value": "media/fontawesome-webfont-RJ6LE7IU.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-Z4ARLA73.eyrbpue749.woff",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-Z4ARLA73.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eyrbpue749"
+        },
+        {
+          "Name": "label",
+          "Value": "media/fontawesome-webfont-Z4ARLA73.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "media/fontawesome-webfont-Z4ARLA73.woff",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\media\\fontawesome-webfont-Z4ARLA73.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\wsenxafarw-39tegmrjtp.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000088636767"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11281"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\wsenxafarw-39tegmrjtp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000079636856"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12556"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\polyfills-FFHMD2TL.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\wsenxafarw-39tegmrjtp.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\wsenxafarw-39tegmrjtp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\wsenxafarw-39tegmrjtp.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000088636767"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11281"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\wsenxafarw-39tegmrjtp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000079636856"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12556"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\polyfills-FFHMD2TL.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\wsenxafarw-39tegmrjtp.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7o/UqxPl0Oka4CNAP9duYnZgpjuS/aDEJ6rWCKX9ZA="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\wsenxafarw-39tegmrjtp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wNJFFxSczIGO97svjP9ishXOSHGLv5Y4VbZ5Mb0PkLw="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.json",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\xtgzzp8wob-tvy3j3n584.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.043478260870"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAOcDdoxFiyeGdEWYmSBa0pItxin+SuPp3FEivY+fgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.json",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\xtgzzp8wob-tvy3j3n584.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.025641025641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.json",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\prerendered-routes.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.json.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\xtgzzp8wob-tvy3j3n584.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAOcDdoxFiyeGdEWYmSBa0pItxin+SuPp3FEivY+fgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAOcDdoxFiyeGdEWYmSBa0pItxin+SuPp3FEivY+fgo="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.json.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\xtgzzp8wob-tvy3j3n584.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.tvy3j3n584.json",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\xtgzzp8wob-tvy3j3n584.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.043478260870"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAOcDdoxFiyeGdEWYmSBa0pItxin+SuPp3FEivY+fgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "prerendered-routes.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.tvy3j3n584.json",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\xtgzzp8wob-tvy3j3n584.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.025641025641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "prerendered-routes.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.tvy3j3n584.json",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\prerendered-routes.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "prerendered-routes.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.tvy3j3n584.json.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\xtgzzp8wob-tvy3j3n584.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAOcDdoxFiyeGdEWYmSBa0pItxin+SuPp3FEivY+fgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "prerendered-routes.json.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAOcDdoxFiyeGdEWYmSBa0pItxin+SuPp3FEivY+fgo="
+        }
+      ]
+    },
+    {
+      "Route": "prerendered-routes.tvy3j3n584.json.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\xtgzzp8wob-tvy3j3n584.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "prerendered-routes.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I="
+        }
+      ]
+    },
+    {
+      "Route": "styles-TFRPMIXF.0qycsy72ku.css",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\xhuram36uf-0qycsy72ku.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000028387317"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35226"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LjaqeUvf8NGwTcfApQaOWGZDvcEnrN2/OwD1Pp8ADP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qycsy72ku"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-TFRPMIXF.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c="
+        }
+      ]
+    },
+    {
+      "Route": "styles-TFRPMIXF.0qycsy72ku.css",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\xhuram36uf-0qycsy72ku.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000019864129"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50341"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nOVRmKjMPW8ebWoBQwEJaOGInRJAEA5lQK7HxZrVOFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qycsy72ku"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-TFRPMIXF.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c="
+        }
+      ]
+    },
+    {
+      "Route": "styles-TFRPMIXF.0qycsy72ku.css",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\styles-TFRPMIXF.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qycsy72ku"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-TFRPMIXF.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c="
+        }
+      ]
+    },
+    {
+      "Route": "styles-TFRPMIXF.0qycsy72ku.css.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\xhuram36uf-0qycsy72ku.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LjaqeUvf8NGwTcfApQaOWGZDvcEnrN2/OwD1Pp8ADP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qycsy72ku"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-TFRPMIXF.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LjaqeUvf8NGwTcfApQaOWGZDvcEnrN2/OwD1Pp8ADP8="
+        }
+      ]
+    },
+    {
+      "Route": "styles-TFRPMIXF.0qycsy72ku.css.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\xhuram36uf-0qycsy72ku.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nOVRmKjMPW8ebWoBQwEJaOGInRJAEA5lQK7HxZrVOFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qycsy72ku"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-TFRPMIXF.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nOVRmKjMPW8ebWoBQwEJaOGInRJAEA5lQK7HxZrVOFA="
+        }
+      ]
+    },
+    {
+      "Route": "styles-TFRPMIXF.css",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\xhuram36uf-0qycsy72ku.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000028387317"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35226"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LjaqeUvf8NGwTcfApQaOWGZDvcEnrN2/OwD1Pp8ADP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c="
+        }
+      ]
+    },
+    {
+      "Route": "styles-TFRPMIXF.css",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\xhuram36uf-0qycsy72ku.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000019864129"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50341"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nOVRmKjMPW8ebWoBQwEJaOGInRJAEA5lQK7HxZrVOFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c="
+        }
+      ]
+    },
+    {
+      "Route": "styles-TFRPMIXF.css",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\wwwroot\\styles-TFRPMIXF.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OHHt9SjyVsODwE/RQL2eK/QTaIZMW2+szKsX4LBJr/c="
+        }
+      ]
+    },
+    {
+      "Route": "styles-TFRPMIXF.css.br",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\publish\\xhuram36uf-0qycsy72ku.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LjaqeUvf8NGwTcfApQaOWGZDvcEnrN2/OwD1Pp8ADP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LjaqeUvf8NGwTcfApQaOWGZDvcEnrN2/OwD1Pp8ADP8="
+        }
+      ]
+    },
+    {
+      "Route": "styles-TFRPMIXF.css.gz",
+      "AssetFile": "D:\\Udemi\\DatingApp\\DatingApp\\api\\obj\\Release\\net9.0\\compressed\\xhuram36uf-0qycsy72ku.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nOVRmKjMPW8ebWoBQwEJaOGInRJAEA5lQK7HxZrVOFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 04:31:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nOVRmKjMPW8ebWoBQwEJaOGInRJAEA5lQK7HxZrVOFA="
+        }
+      ]
+    }
+  ]
+}

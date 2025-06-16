@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/495f4777-e630-4b44-9659-19a3fb928b2b/resourceGroups/hiran-Hansaka/providers/Microsoft.Web/sites/dating-app-by-hiran",
+    "appService.deploySubpath": "API\\bin\\Publish"
+}
