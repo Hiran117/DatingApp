@@ -1,4 +1,3 @@
-using System;
 using System.Security.Cryptography;
 using System.Text;
 using API.Data;
@@ -13,9 +12,9 @@ using Microsoft.EntityFrameworkCore;
 namespace API.Controllers;
 
 public class AccountController(UserManager<AppUser> userManager, ITokenService tokenService, 
-IMapper mapper) : BaseApiController
+    IMapper mapper) : BaseApiController
 {
-    [HttpPost("register")]
+    [HttpPost("register")] // account/register
     public async Task<ActionResult<UserDto>> Register(RegisterDto registerDto)
     {
         if (await UserExists(registerDto.Username)) return BadRequest("Username is taken");
@@ -41,15 +40,11 @@ IMapper mapper) : BaseApiController
     public async Task<ActionResult<UserDto>> Login(LoginDto loginDto)
     {
         var user = await userManager.Users
-        .Include(p => p.Photos)
-            .FirstOrDefaultAsync(x => 
-                x.NormalizedUserName == loginDto.Username.ToUpper());
+            .Include(p => p.Photos)
+                .FirstOrDefaultAsync(x =>
+                    x.NormalizedUserName == loginDto.Username.ToUpper());
 
         if (user == null || user.UserName == null) return Unauthorized("Invalid username");
-
-        var result = await userManager.CheckPasswordAsync(user, loginDto.Password);
-
-        if (!result) return Unauthorized();
 
         return new UserDto
         {
@@ -61,8 +56,8 @@ IMapper mapper) : BaseApiController
         };
     }
 
-    private async Task<bool> UserExists (string username)
+    private async Task<bool> UserExists(string username)
     {
-        return await userManager.Users.AnyAsync(x => x.NormalizedUserName == username.ToUpper());
+        return await userManager.Users.AnyAsync(x => x.NormalizedUserName == username.ToUpper()); // Bob != bob
     }
 }
